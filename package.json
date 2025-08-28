@@ -10,7 +10,7 @@
     "ng": "ng",
     "start": "ng serve"
   },
-   "overrides": {
+  "overrides": {
     "stylus": "github:stylus/stylus#0.54.5"
   },
   "dependencies": {
@@ -62,11 +62,13 @@
     "@angular/language-service": "14.2.12",
     "@compodoc/compodoc": "^1.1.19",
     "@fortawesome/fontawesome-free": "^5.2.0",
+    "@playwright/test": "^1.55.0",
     "@types/leaflet": "1.2.3",
     "@types/node": "^12.12.70",
     "codelyzer": "^0.0.28",
     "conventional-changelog-cli": "^2.2.2",
     "npm-run-all": "4.0.2",
+    "prettier": "^3.6.2",
     "rimraf": "2.6.1",
     "stylelint": "^15.6.0",
     "ts-node": "3.2.2",
